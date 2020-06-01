@@ -1,0 +1,4 @@
+flask
+tkinter
+threading
+random
