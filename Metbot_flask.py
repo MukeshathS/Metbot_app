@@ -21,9 +21,9 @@ app = Flask(__name__)
 def flask_main():
     app.run()
     
-# @app.route("/")
-# def index():
-#     return "Hello"
+@app.route("/")
+def index():
+    return "Hello"
 
 # @app.route("/Metbot")
 # def metbot():
