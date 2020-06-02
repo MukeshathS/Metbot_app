@@ -1,1 +1,1 @@
-web: gunicorn Metbot_flask:app
+web: gunicorn app:app
